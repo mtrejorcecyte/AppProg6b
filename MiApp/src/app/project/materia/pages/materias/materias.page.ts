@@ -28,6 +28,10 @@ export class MateriasPage implements OnInit {
     })
   }
 
+  nuevaMateria() {
+    
+  }
+
   actualizarMateria(materia: any){
 
   }
